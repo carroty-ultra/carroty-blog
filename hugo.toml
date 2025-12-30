@@ -1,0 +1,29 @@
+baseURL = "https://blog.carroty.app/"
+languageCode = "en-gb"
+title = "Carroty Blog"
+theme = "PaperMod"
+
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = false
+  hideMeta = false
+  hideFooter = false
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showBreadCrumbs = false
+  showCodeCopyButtons = true
+  disableSpecial1stPost = true
+
+[params.profileMode]
+  enabled = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
