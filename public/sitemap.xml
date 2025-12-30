@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.carroty.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-30T14:34:11+00:00</lastmod>
   </url><url>
-    <loc>https://blog.carroty.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-30T14:34:11+00:00</lastmod>
   </url><url>
-    <loc>https://blog.carroty.app/posts/why-carroty-why/</loc>
+    <loc>http://localhost:1313/posts/why-carroty-why/</loc>
     <lastmod>2025-12-30T14:34:11+00:00</lastmod>
   </url><url>
-    <loc>https://blog.carroty.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.carroty.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

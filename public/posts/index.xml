@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Carroty Blog</title>
-    <link>https://blog.carroty.app/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Carroty Blog</description>
     <generator>Hugo -- 0.153.5</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 30 Dec 2025 14:34:11 +0000</lastBuildDate>
-    <atom:link href="https://blog.carroty.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Carroty, Why?</title>
-      <link>https://blog.carroty.app/posts/why-carroty-why/</link>
+      <link>http://localhost:1313/posts/why-carroty-why/</link>
       <pubDate>Tue, 30 Dec 2025 14:34:11 +0000</pubDate>
-      <guid>https://blog.carroty.app/posts/why-carroty-why/</guid>
+      <guid>http://localhost:1313/posts/why-carroty-why/</guid>
       <description>&lt;h2 id=&#34;why-carroty-why&#34;&gt;Why Carroty, Why?&lt;/h2&gt;
-&lt;p&gt;So this winter i created carroty mobile app and after building it i was wondering why i created it in the first place!?&lt;/p&gt;</description>
+&lt;p&gt;So this winter i created carroty mobile app and after building it i was wondering why i created it in the first place!?&lt;/p&gt;
+&lt;p&gt;Test!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

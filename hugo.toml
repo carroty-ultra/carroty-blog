@@ -6,7 +6,7 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "light"
-  disableThemeToggle = false
+  disableThemeToggle = true
   favicon = true
   hideMeta = false
   hideFooter = true
@@ -16,6 +16,9 @@ theme = "PaperMod"
   showBreadCrumbs = false
   showCodeCopyButtons = true
   disableSpecial1stPost = true
+  label.text = "Carroty Blog"
+  label.icon = "/images/logo-no-background.png"
+  label.iconHeight = 32
 
 [params.profileMode]
   enabled = false
@@ -25,6 +28,6 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Carroty"
+    url = "https://carroty.app/"
     weight = 1
