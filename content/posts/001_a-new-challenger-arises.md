@@ -19,7 +19,7 @@ No app does this well. There's a gap in the market.
 
 The app market has split into two camps: meal planning apps and nutrition tracking apps. Each does its job really well but in isolation, and neither bridges the gap.
 
-**Meal planning apps** like Mealime, Mealia, and Recime excel at organising recipes and generating shopping lists. Mealime offers nutrition data for its own recipes but locks it behind a subscription, custom recipes get no nutrition data and its primary integrations are US supermarkets.
+**Meal planning apps** like [Mealime](https://www.mealime.com/), [Mealia](https://www.mealia.co.uk/), and [Recime](https://recime.app/) excel at organising recipes and generating shopping lists. Mealime offers nutrition data for its own recipes but locks it behind a subscription, custom recipes get no nutrition data and its primary integrations are US supermarkets.
 
 Mealia integrates with UK supermarkets but does not offer nutrition data, although there is a workaround to get nutrition data through their AI chat feature. Recime lets users import recipes from any URL, even Instagram, but ingredient input is plain text, and there’s no recipe library to browse, users must hunt for recipes.
 
@@ -79,9 +79,8 @@ Carroty is a meal planning app built for UK shoppers who care about nutrition. C
 
 ### Future Menu
 
-- UK supermarkets integration
-- Easy ordering
-- Streamlined process
+- UK supermarkets integration, [Asda](https://www.asda.com/), [Sainsbury's](https://www.sainsburys.co.uk/), [Waitrose](https://www.waitrose.com/), etc.
+- More Streamlined process
 
 ---
 
