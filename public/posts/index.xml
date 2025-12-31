@@ -9,13 +9,18 @@
     <lastBuildDate>Tue, 30 Dec 2025 14:34:11 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Carroty, Why?</title>
-      <link>http://localhost:1313/posts/why-carroty-why/</link>
+      <title>A New Challenger Arises</title>
+      <link>http://localhost:1313/posts/001_a-new-challenger-arises/</link>
       <pubDate>Tue, 30 Dec 2025 14:34:11 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-carroty-why/</guid>
-      <description>&lt;h2 id=&#34;why-carroty-why&#34;&gt;Why Carroty, Why?&lt;/h2&gt;
-&lt;p&gt;So this winter i created carroty mobile app and after building it i was wondering why i created it in the first place!?&lt;/p&gt;
-&lt;p&gt;Test!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/001_a-new-challenger-arises/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;mind-the-gap-&#34;&gt;Mind the Gap 🚇&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Here&amp;rsquo;s a simple goal:&lt;/strong&gt; plan a week of meals that hit your protein target, then order the ingredients from Tesco.&lt;/p&gt;
+&lt;p&gt;It should take a few minutes. Instead, it takes three different apps and a lot of patience. For UK shoppers, it&amp;rsquo;s even worse since most apps aren&amp;rsquo;t built for UK supermarkets.&lt;/p&gt;
+&lt;p&gt;No app does this well. There&amp;rsquo;s a gap in the market.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;when-two-worlds-dont-collide-&#34;&gt;When Two Worlds Don&amp;rsquo;t Collide 🌍&lt;/h2&gt;
+&lt;p&gt;The app market has split into two camps: meal planning apps and nutrition tracking apps. Each does its job really well but in isolation, and neither bridges the gap.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

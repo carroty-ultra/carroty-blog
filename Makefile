@@ -12,3 +12,6 @@ help: ## Show this help message
 
 serve: ## Run Hugo server
 	hugo server -D
+
+new: ## Create new post
+	hugo new content content/posts/my-first-post.md
