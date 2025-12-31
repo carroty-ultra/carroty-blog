@@ -3,6 +3,8 @@ languageCode = "en-gb"
 title = "Carroty Blog"
 theme = "PaperMod"
 
+[services.googleAnalytics]
+  ID = 'G-DDK83W7RV5'
 
 [params]
   defaultTheme = "light"
